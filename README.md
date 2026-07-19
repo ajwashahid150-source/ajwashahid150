@@ -1,10 +1,6 @@
 # 🌌 Ajwa Shahid | Dev Profile
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Ajwa Shahid | Cyber Terminal" src="dark.svg" width="100%">
-</picture>
+<img src="dark.svg" alt="Ajwa Shahid | Cyber Terminal" width="100%">
 
 ---
 
