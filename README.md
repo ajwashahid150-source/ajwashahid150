@@ -79,33 +79,11 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🥇 **FAST Dean's List Honor Roll** (Academic Excellence Awards)
-- 🎓 **Introduction to Machine Learning** (Authorized by Stanford University & DeepLearning.AI via Coursera)
-- 💻 **Python Core Certification** (HackerRank Gold Level Badge)
-- 🌐 **HackerRank SQL (Advanced) Certificate**
+
 
 ---
 
-## 📊 Holo-Terminal Diagnostics (GitHub Analytics)
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" width="400">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajwashahid&show_icons=true&theme=tokyonight&bg_color=050b14&title_color=00f5ff&text_color=e0ffff&icon_color=00ffcc&border_color=00f5ff" alt="Ajwa's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="400">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajwashahid&theme=tokyonight&background=050b14&ring=00f5ff&fire=00ffcc&currPlay=0055ff&sideNums=e0ffff&sideLabels=8892b0&dates=00f5ff&border=00f5ff" alt="Ajwa's GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="800">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajwashahid&layout=compact&theme=tokyonight&bg_color=050b14&title_color=00f5ff&text_color=e0ffff&icon_color=00ffcc&border_color=00f5ff" alt="Top Languages" width="55%" />
-    </td>
-  </tr>
-</table>
-
----
 
 <p align="center" style="font-family: monospace; font-size: 11px; opacity: 0.5;">
   🚀 Generated with 🌌 Antigravity 2.0 Cyber-Engine. Keep building the future.
