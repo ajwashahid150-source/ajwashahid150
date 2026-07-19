@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="600" viewBox="0 0 850 600" fill="none">
   <defs>
     <!-- Fonts -->
-    <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+    <style type="text/css"><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
       
       text {
         font-family: 'Fira Code', 'Courier New', monospace;
@@ -129,7 +129,7 @@
       animation: draw-wave 6s linear infinite;
     }
     
-    </style>
+    ]]></style>
     
     <!-- Gradients -->
     <linearGradient id="dark-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -384,7 +384,7 @@
         </g>
       </g>
 
-      <!-- Line 17: vision output -->
+      <!-- Line 17: motto output -->
       <g class="out-line8" font-size="11" fill="#00ff88" font-weight="bold" filter="url(#subtle-glow)">
         <text x="365" y="449">✨ Learn.  🚀 Build.  💡 Improve.  🔁 Repeat.</text>
       </g>
@@ -402,4 +402,4 @@
         <text x="365" y="499" fill="#ffffff" font-size="11">💬 Let's build something amazing together!</text>
       </g>
       <g class="out-line10">
-        <text x="365" y="
+        <text x="
